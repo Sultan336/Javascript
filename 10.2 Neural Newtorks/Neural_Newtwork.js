@@ -3,7 +3,7 @@ Perceptron P;
 void setup() {
     size(200, 200);
     P = new Perceptron();
-    float inputs = {
+    float[] inputs = {
         -1,
         0.5
     }
